@@ -130,5 +130,9 @@ dmypy.json
 profile_default/
 ipython_config.py
 
-# This project
+# Annoying OSX stuff
 .DS_Store
+
+# This project
+*.csv
+*.xlsx
